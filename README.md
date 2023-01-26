@@ -1,1 +1,1 @@
-[![Nghi's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nghi01&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Nghi's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nghi01&count_private=true&hide=stars&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
